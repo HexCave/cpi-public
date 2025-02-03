@@ -1,0 +1,1 @@
+import{_ as t,c as s,a as o,o as n}from"./C61MPjZq.js";const a={};function r(c,e,p,l,_,d){return n(),s("div",null,e[0]||(e[0]=[o("h1",null,"Testing",-1)]))}const i=t(a,[["render",r]]);export{i as default};
